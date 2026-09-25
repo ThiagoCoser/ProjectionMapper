@@ -20,3 +20,6 @@ Utilize um computador, um projetor e uma câmera, de preferência uma câmera in
 <video width="320" height="240" controls>
   <source src="Videos/video4.mp4" type="video/mp4">
 </video>
+
+
+![](Videos/video4.mp4)
