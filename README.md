@@ -22,4 +22,4 @@ Utilize um computador, um projetor e uma câmera, de preferência uma câmera in
 </video>
 
 
-![](Videos/video4.mp4)
+![](./Videos/video4.mp4)
