@@ -19,7 +19,5 @@ Utilize um computador, um projetor e uma câmera, de preferência uma câmera in
 
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1Z3M9l7ZguifpKZLbnnpuvatoPgOYE_zX/view?usp=sharing" type="video/mp4">
+  <source src="https://youtu.be/7Elmisq36tA" type="video/mp4">
 </video>
-
-![](https://drive.google.com/file/d/1Z3M9l7ZguifpKZLbnnpuvatoPgOYE_zX/view?usp=sharing)
