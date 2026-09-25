@@ -18,7 +18,7 @@ Utilize um computador, um projetor e uma câmera, de preferência uma câmera in
 # Exemplo
 
 <video width="320" height="240" controls>
-  <source src="Videos/video4.mp4" type="video/mp4">
+  <source src="./Videos/video4.mp4" type="video/mp4">
 </video>
 
 
