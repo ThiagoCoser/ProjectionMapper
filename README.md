@@ -13,6 +13,7 @@ Utilize um computador, um projetor e uma câmera(preferencialmente uma câmera i
 # Funcionalidades
 - Pasta customizável de vídeos
 - Cima / baixo - altera o limiar de PB
+- C - Altera entre as webcams conectadas no PC
 - Calibragem: WASD - move a projeção + - escalona
 -  Esquerda / direita - Troca para o próximo vídeo
 - Esc sai do programa
